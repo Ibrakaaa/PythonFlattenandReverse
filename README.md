@@ -1,2 +1,3 @@
 # PythonFlattenandReverse
-Python Temel Bitirme Projesi
+### Python Temel Bitirme Projesi
+www.patika.dev
